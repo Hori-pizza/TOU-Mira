@@ -416,12 +416,12 @@
   <string name="TouOptionLookoutTaskUses">タスク完了で監視使用可能数を増加させる</string>
   <!-- Mayor - Crewmate Power -->
   <!-- Mayor Wiki / Description -->
-  <string name="TouRoleMayor">Mayor</string>
-  <string name="TouRoleMayorIntroBlurb">Reveal Yourself To Save The Crew</string>
-  <string name="TouRoleMayorTabDescription">Lead the crew to victory!</string>
-  <string name="TouRoleMayorTabDescriptionEgo">Lead the evils to victory!</string>
-  <string name="TouRoleMayorUnrevealedTabText">Reveal yourself whenever you wish.</string>
-  <string name="TouRoleMayorWikiDescription">The Mayor is a Crewmate Power role that gains three votes and is revealed to all players, also changing their look in meetings.</string>
+  <string name="TouRoleMayor">メイヤー</string>
+  <string name="TouRoleMayorIntroBlurb">この船最大の権力者</string>
+  <string name="TouRoleMayorTabDescription">クルーを勝利へ導け！</string>
+  <string name="TouRoleMayorTabDescriptionEgo">悪を勝利へ導け！</string>
+  <string name="TouRoleMayorUnrevealedTabText">いつでも姿を現せ</string>
+  <string name="TouRoleMayorWikiDescription">[クルーメイト:権力]\%nl\%投票数が3倍へ増加し、全プレイヤーへ自身の役職が公開されます！</string>
   <!-- Medic - Crewmate Protective -->
   <!-- Medic Wiki / Abilities -->
   <string name="TouRoleMedic">メディック</string>
@@ -479,59 +479,59 @@
   <string name="TouRoleMirrorcasterAttackedMessageWithoutType">\%player\%が攻撃されました！今なら受けた攻撃を解放することができます！</string>
   <!-- Mystic - Crewmate Investigative -->
   <!-- Mystic Wiki / Description -->
-  <string name="TouRoleMystic">Mystic</string>
-  <string name="TouRoleMysticIntroBlurb">Know When and Where Kills Happen</string>
-  <string name="TouRoleMysticTabDescription">Understand when and where kills happen</string>
-  <string name="TouRoleMysticWikiDescription">The Mystic is a Crewmate Investigative role that gets an alert when someone dies.</string>
+  <string name="TouRoleMystic">ミスティック</string>
+  <string name="TouRoleMysticIntroBlurb">死の音を聴け</string>
+  <string name="TouRoleMysticTabDescription">キル起こったとき、いつ、どこで死んだか把握できます。</string>
+  <string name="TouRoleMysticWikiDescription">[クルーメイト:調査]\%nl\%誰かが死亡した時、通知を受け取ります</string>
   <!-- Mystic Options -->
-  <string name="TouOptionMysticDeadBodyArrowDuration">Dead Body Arrow Duration</string>
+  <string name="TouOptionMysticDeadBodyArrowDuration">矢印表示時間</string>
   <!-- Oracle - Crewmate Protective -->
   <!-- Oracle Wiki / Abilities -->
-  <string name="TouRoleOracle">Oracle</string>
-  <string name="TouRoleOracleIntroBlurb">Get Crewmates To Confess Their Sins</string>s
-  <string name="TouRoleOracleTabDescription">Bless crewmates to protect them in meetings, and\%nl\%make them confess in the meeting</string>
-  <string name="TouRoleOracleWikiDescription">The Oracle is a Crewmate Protective role that can get another player to confess (revealing their faction with \%revealAccuracy\%% accuracy if the Oracle dies) or can protect a player from meeting abilities.</string>
-  <string name="TouRoleOracleBless">Bless</string>
-  <string name="TouRoleOracleBlessWikiDescription">Blessing a player prevents any harm from being done to them in the meeting.</string>
-  <string name="TouRoleOracleConfess">Confess</string>
-  <string name="TouRoleOracleConfessWikiDescription">Make a player confess in a meeting, giving a vision of three possible evils (including the confessor), and also reveal their faction to everyone with \%revealAccuracy\%% accuracy when the Oracle dies.</string>
+  <string name="TouRoleOracle">オラクル</string>
+  <string name="TouRoleOracleIntroBlurb">神の祝福を</string>s
+  <string name="TouRoleOracleTabDescription">仲間を祝福して守ったり\%nl\%他のプレイヤーの陣営を自白させたり出来ます。</string>
+  <string name="TouRoleOracleWikiDescription">[クルーメイト:守護]\%nl\%他のプレイヤーに自白させることができます。(オラクルが死亡した場合、自白したプレイヤーの陣営を%%revealAccuracy%%の制度で明かします)また、プレイヤーを会議中の能力から守ったりできます。</string>
+  <string name="TouRoleOracleBless">祝福</string>
+  <string name="TouRoleOracleBlessWikiDescription">他のプレイヤーに祝福を行うと、そのプレイヤーは会議中、害を受けません</string>
+  <string name="TouRoleOracleConfess">自白</string>
+  <string name="TouRoleOracleConfessWikiDescription">会議でプレイヤーに自白させ、三つのビジョンを示します。オラクルが死亡した時、そのプレイヤーの陣営を\%revealAccuracy\%%の精度で全員に開示します。</string>
   <!-- Oracle Options -->
-  <string name="TouOptionOracleConfessCooldown">Confess Cooldown</string>
-  <string name="TouOptionOracleBlessCooldown">Bless Cooldown</string>
-  <string name="TouOptionOracleRevealAccuracy">Reveal Accuracy</string>
-  <string name="TouOptionOracleNeutralBenignShowUpAsEvil">Neutral Benign Show Up As Evil</string>
-  <string name="TouOptionOracleNeutralEvilShowUpAsEvil">Neutral Evil Show Up As Evil</string>
-  <string name="TouOptionOracleNeutralKillingShowUpAsEvil">Neutral Killing Show Up As Evil</string>
+  <string name="TouOptionOracleConfessCooldown">自白クールダウン</string>
+  <string name="TouOptionOracleBlessCooldown">祝福クールダウン</string>
+  <string name="TouOptionOracleRevealAccuracy">自白精度</string>
+  <string name="TouOptionOracleNeutralBenignShowUpAsEvil">無害なニュートラルを悪として表示するか</string>
+  <string name="TouOptionOracleNeutralEvilShowUpAsEvil">有害なニュートラルを悪として表示する</string>
+  <string name="TouOptionOracleNeutralKillingShowUpAsEvil">殺害ニュートラルを悪として表示する</string>
   <!-- Oracle Feedback -->
-  <string name="TouRoleOracleConfessorDied">Your confessor failed to survive so you received no confession</string>
-  <string name="TouRoleOracleTooFew">Too few people alive to receive a confessional</string>
-  <string name="TouRoleOracleNoMoreEvil">\%player\% confesses to knowing that there are no more evil players!</string>
-  <string name="TouRoleOracleThreePlayers">\%player1\% confesses to knowing that they, \%player2\% and/or \%player3\% is evil!</string>
-  <string name="TouRoleOracleBlessingMessageSelf">Your blessing has saved \%player\% from death!</string>
-  <string name="TouRoleOracleBlessingMessageOthers">\%player\% survived due to being blessed by an \%color=#FFBF00BF\%Oracle\%/color\%!</string>
+  <string name="TouRoleOracleConfessorDied">自白対象のプレイヤーが死亡したため、自白結果を受け取れませんでした。</string>
+  <string name="TouRoleOracleTooFew">生存者が少ないため、自白結果を受け取れませんでした。</string>
+  <string name="TouRoleOracleNoMoreEvil">\%player\%は邪悪なプレイヤーがいないと自白した！</string>
+  <string name="TouRoleOracleThreePlayers">\%player1\%は、自身と\%player2\%または\%player3\%が邪悪であると自白した！</string>
+  <string name="TouRoleOracleBlessingMessageSelf">あなたの祝福が\%player\%を死から救った。</string>
+  <string name="TouRoleOracleBlessingMessageOthers">\%player\%は\%color=#FFBF00BF\%オラクル\%/color\%!の祝福を受けているため、生き延びた。</string>
   <!-- Plumber - Crewmate Support -->
   <!-- Plumber Wiki / Abilities -->
-  <string name="TouRolePlumber">Plumber</string>
-  <string name="TouRolePlumberIntroBlurb">Get The Rats Out Of The Sewers</string>
-  <string name="TouRolePlumberTabDescription">Flush the vent system to kick venters out, and\%nl\%barricade vents to block them the next round</string>
-  <string name="TouRolePlumberExtraTabText">Note: Barricades Stay For \%roundCount\% Round(s)</string>
-  <string name="TouRolePlumberVentListTabText">Vents List</string>
-  <string name="TouRolePlumberUnbuiltBarricadeTabText">Preparing...</string>
-  <string name="TouRolePlumberVentLabelTabText">\%roomName\% Vent</string>
-  <string name="TouRolePlumberVentRoundsTabText">\%roundsRemaining\% Round(s) Remaining</string>
-  <string name="TouNotifPlumberBlock">This vent will be blocked at the beginning of next round.</string>
-  <string name="TouRolePlumberWikiDescription">The Plumber is a Crewmate Support role that can place Barricades on vents and Flush anyone out of vents.</string>
-  <string name="TouRolePlumberFlush">Flush</string>
-  <string name="TouRolePlumberFlushWikiDescription">Flushing the vents makes every vent open and close, kicking out anyone actively in a vent. The Plumber also gets an arrow pointing to every flushed player for one second.</string>
-  <string name="TouRolePlumberBlock">Block</string>
-  <string name="TouRolePlumberBlockWikiDescription">Block a vent by placing a barricade on it for the next round, preventing players from using it.</string>
-  <string name="TouRolePlumberBlockNotif">This vent will be blocked at the beginning of the next round.</string>
+  <string name="TouRolePlumber">プラマー</string>
+  <string name="TouRolePlumberIntroBlurb">ベントの中からこんにちは</string>
+  <string name="TouRolePlumberTabDescription">ベントからプレイヤーを追い出してベントを封鎖しろ</string>
+  <string name="TouRolePlumberExtraTabText">※バリケードは\%roundCount\%ターン維持されます。</string>
+  <string name="TouRolePlumberVentListTabText">ベントリスト</string>
+  <string name="TouRolePlumberUnbuiltBarricadeTabText">準備中...</string>
+  <string name="TouRolePlumberVentLabelTabText">\%roomName\%ベント</string>
+  <string name="TouRolePlumberVentRoundsTabText">\%roundsRemaining\%残りターン</string>
+  <string name="TouNotifPlumberBlock">このベントは次のターンから封鎖されます。</string>
+  <string name="TouRolePlumberWikiDescription">[クルーメイト:サポート]ベントを封鎖したり、ベント内からプレイヤーを追い出したりすることができます。</string>
+  <string name="TouRolePlumberFlush">追い出す</string>
+  <string name="TouRolePlumberFlushWikiDescription">繋がっているベント内にいるプレイヤーを、強制的にベント外に追い出すことが出来ます。プレイヤーを追い出した場合、そのプレイヤーを指す矢印がプラマーに1秒間表示されます。</string>
+  <string name="TouRolePlumberBlock">封鎖</string>
+  <string name="TouRolePlumberBlockWikiDescription">ベントにバリケードを設置し、使用できなくします。バリケードは、次のターンから有効です。</string>
+  <string name="TouRolePlumberBlockNotif">このベントは次のターンから封鎖されます。</string>
   <!-- Plumber Options -->
-  <string name="TouOptionPlumberFlushCooldown">Flush Cooldown</string>
-  <string name="TouOptionPlumberBlockCooldown">Block Cooldown</string>
-  <string name="TouOptionPlumberMaxNumberOfBarricades">Max Number Of Barricades</string>
-  <string name="TouOptionPlumberAmountOfRoundsBarricadesLast">Amount Of Rounds Barricades Last</string>
-  <string name="TouOptionPlumberGetMoreFromTasks">Get More Barricades From Completing Tasks</string>
+  <string name="TouOptionPlumberFlushCooldown">追い出すクールダウン</string>
+  <string name="TouOptionPlumberBlockCooldown">封鎖クールダウン</string>
+  <string name="TouOptionPlumberMaxNumberOfBarricades">封鎖使用可能回数</string>
+  <string name="TouOptionPlumberAmountOfRoundsBarricadesLast">バリケード有効ターン数</string>
+  <string name="TouOptionPlumberGetMoreFromTasks">タスク完了で封鎖使用可能回数を増加させるか</string>
   <!-- Politician - Crewmate Power -->
   <!-- Politician Wiki / Abilities -->
   <string name="TouRolePolitician">Politician</string>
